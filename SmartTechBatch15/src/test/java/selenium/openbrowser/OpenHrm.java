@@ -24,8 +24,8 @@ public class OpenHrm {  // Class day 10 time 4:30h
 		Thread.sleep(1000);
 		driver.findElement(By.name("Submit")).click();
 		
-		Thread.sleep(1000);
-		driver.close();
+//		Thread.sleep(1000);
+//		driver.close();
 		
 	}
 
